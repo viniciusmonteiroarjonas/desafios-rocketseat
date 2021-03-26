@@ -9,18 +9,16 @@
 
 ## Índice de desafios
 
-- [00 - Dúvidas frequentes sobre os desafios](https://github.com/rocketseat/bootcamp-gostack-desafios/tree/master/faq-desafios)
-- [01 - Planejando meus estudos](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-01)
-- [02 - Conceitos do Node.js](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-nodejs)
-- [03 - Conceitos do ReactJS](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-reactjs)
-- [04 - Conceitos do React Native](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-react-native)
-- [05 - Fundamentos do Node.js](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-fundamentos-nodejs)
-- [06 - Banco de dados e upload de arquivos no Node.js](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-database-upload)
-- [07 - Fundamentos do ReactJS](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-fundamentos-reactjs)
-- [08 - Fundamentos do React Native](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-fundamentos-react-native)
-- [09 - Relacionamentos com banco de dados no Node.js](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-database-relations)
-- [10 - CRUD no ReactJS](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-reactjs-crud)
-- [11 - Navegação e filtros no React Native](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-react-native-delivery)
+- [01 - Conceitos do Node.js](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-nodejs)
+- [02 - Conceitos do ReactJS](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-reactjs)
+- [03 - Conceitos do React Native](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-react-native)
+- [04 - Fundamentos do Node.js](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-fundamentos-nodejs)
+- [05 - Banco de dados e upload de arquivos no Node.js](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-database-upload)
+- [06 - Fundamentos do ReactJS](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-fundamentos-reactjs)
+- [07 - Fundamentos do React Native](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-fundamentos-react-native)
+- [08 - Relacionamentos com banco de dados no Node.js](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-database-relations)
+- [09 - CRUD no ReactJS](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-reactjs-crud)
+- [10 - Navegação e filtros no React Native](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-react-native-delivery)
 
 ## :memo: Licença
 
